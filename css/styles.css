@@ -193,15 +193,10 @@ img {
 
 .second-section {
   display: flex;
-  align-items: flex-start;
   gap: 24px;
 }
 
 .second-section-li {
-  display: flex;
-  align-items: flex-start;
-  flex-direction: column;
-  gap: 8px;
   width: 264px;
 }
 
@@ -275,7 +270,6 @@ img {
 }
 
 .section-four {
-  text-align: center;
   padding: 120px 0;
   background-color: #fff;
 }
